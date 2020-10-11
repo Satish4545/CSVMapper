@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalDependencies">
+    <plugin id="com.xstudio.com.xstudio.plugin.idea" />
+    <plugin id="org.gap.ijplugins.spring.idea-spring-tools" />
+    <plugin id="spring-generation-tools" />
+  </component>
+</project>
